@@ -1,0 +1,5 @@
+gun = {}
+
+ammo = {}
+
+grenade = {}
